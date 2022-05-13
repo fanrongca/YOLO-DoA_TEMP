@@ -70,10 +70,7 @@ The results show that these two modules will deteriorate performance of DoA esti
 - (6) CSV file (ie. predict.csv) containing real and predicted angels is generated in "saved_model_dir"
 
 # Contact
-Issues should be raised directly in the repository. Because the relevant code is in the application development stage, it is not convenient to disclose it again.
-For professional support requests please email Rong Fan at fanrong@cafuc.edu.cn.
-
-  
+Issues should be raised directly in the repository. For professional support requests for the current version of the code, please email fanrong@cafuc.edu.cn.
   
   
   
